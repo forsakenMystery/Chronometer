@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Chronometer", "Chronometer\Chronometer_6_2.asmproj", "{EC006CDE-3CB7-4807-A787-AEDA07615937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC006CDE-3CB7-4807-A787-AEDA07615937}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EC006CDE-3CB7-4807-A787-AEDA07615937}.Debug|AVR.Build.0 = Debug|AVR
+		{EC006CDE-3CB7-4807-A787-AEDA07615937}.Release|AVR.ActiveCfg = Release|AVR
+		{EC006CDE-3CB7-4807-A787-AEDA07615937}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
